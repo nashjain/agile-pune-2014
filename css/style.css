@@ -1177,3 +1177,7 @@
 
 .stripped_table tr:nth-child(even) {background: #EEE}
 .stripped_table tr:nth-child(odd) {background: #FFF}
+
+.speaker-name {
+    color: #d90000;
+}
